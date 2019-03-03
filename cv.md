@@ -30,7 +30,7 @@ https://github.com/faery-tale/Praktice-CSS-for-page/blob/master/README.md
 CodeAcademy: https://www.codecademy.com/faery-tale  
 w3schools.com  
 https://learn.javascript.ru/  
-Streamline course  
+Streamline course english language  
 
 ### English-level:
 pre-intermediate  
