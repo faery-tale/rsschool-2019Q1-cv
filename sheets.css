@@ -1,0 +1,142 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    background-image: url(../resume/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: inherit;
+}
+
+header {
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: #6c0058;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px white;
+    margin: 5px;
+}
+
+.face {
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+
+h1 {
+    display: inline-block;
+    background: rgba(171, 128, 206, 0.7);
+    border: 5px solid #f7dbf2;
+    border-radius: 30px;
+    padding: 10px;
+    color: #f7dbf2;
+    text-shadow: 3px 5px 10px #6c0059;
+    position: relative;
+    bottom: 150px;
+    left: 200px;
+    font-size: 50px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.article1, .article2 {
+    display: block;
+    border: 5px solid #f7dbf2;
+    border-radius: 30px;
+    padding: 3px 10px;
+    background: rgba(171, 128, 206, 0.7);
+    font-size: 20px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.summary {
+    display: inline-block;
+    margin: 50px;
+}
+
+.examples, .education, .english {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid #f7dbf2;
+    border-radius: 30px;
+    background: rgba(171, 128, 206, 0.7);
+}
+
+.examples {
+    position: relative;
+    bottom: 310px;
+    left: 30px;
+    padding: 25px 20px;
+}
+
+.page {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.page:hover{
+    color: crimson;
+}
+
+.education {
+    position: relative;
+    bottom: 310px;
+    left: 25px;
+    color: #4e0040;
+}
+
+.english {
+    position: relative;
+    bottom: 80px;
+    left: 25px;
+}
+
+.screen {
+    width: 200px;
+}
+
+.article1 {
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    bottom: 120px;
+}
+
+.article2 {
+    display: inline-block;
+    position: relative;
+    bottom: 130px;
+}
+
+.h-align {
+    display: inline-block;
+    position: relative;
+    left: 870px;
+    bottom: 200px;
+}
+
+div {
+    display: inline-block;
+    position: relative;
+    bottom: 290px;
+    left:50px;
+    padding: 10px 150px;
+    border: 5px solid #f7dbf2;
+    border-radius: 30px;
+    background: rgba(171, 128, 206, 0.7);
+    color: #360d2f;
+    font-size: 20px;
+    font-weight: bold;
+}
